@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mohammed Lawal
 ======================================================================================================================================
 
-I am a Solidity Developer, Blockchain Researcher and Writer.
+I am a Smart Contract Developer, Web3 Researcher and Writer.
 ------------------------------------------------------------
 
-I have been a Backend Website Developer for over 3 years, became a part of the Web-3 and Blockchain space 2 years ago. I use the Solidity programming language, Javascript, Hardhat, Remix IDE and several other blockchain tools for my Smart Contract Development. I am also a professional Writer with over 5 years of experience, with over 2 years writing on Blockchain related topics. I have over 4 published articles talking about Web-3, written over 3 product documentations for clients, and also have an infographic content series, where i educate people about the Blockchain space.
+I have been a part of the Blockchain Development space for over 3 years. I use the Solidity programming language, Javascript, Hardhat, Remix IDE and several other blockchain tools for my Smart Contract Development. I am also a professional Writer with over 5 years of experience, and over 2 years writing on Blockchain related topics. I have over 6 published articles talking about Web-3, written over 3 product documentations for clients, and also have an infographic content series, where i educate people about the Blockchain space.
 
 * 🌍  I'm based in Ilorin, Nigeria
 * 🖥️  See my portfolio at [Lawwee](http://https://bio.link/lawwee)
