@@ -8,6 +8,7 @@ I have been a part of the Blockchain Development space for over 3 years. I use t
 
 * 🌍  I'm based in Ilorin, Nigeria
 * 🖥️  See my portfolio at [Lawwee](http://https://bio.link/lawwee)
+* 🖥️  Check out my LinkedIn Profile [here](http://https://linkedin.com/in/mohammed-lawal)
 * ✉️  You can contact me at [mohammedlawal868@gmail.com](mailto:mohammedlawal868@gmail.com)
 * 🚀  I'm currently working on [Rune Wars](http://www.figma.com/file/LMqUy0fpJV3XmRWZU6ybaq/RuneWars?node-id=15%3A8)
 * 🧠  I'm learning Nothing specific, just broadening my knowledge in the Blockchain space
