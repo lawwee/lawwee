@@ -1,13 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mohammed Lawal
 ======================================================================================================================================
 
-I am a Smart Contract Developer, Web3 Researcher and Writer.
+I am a Smart Contract Developer and Web3 Writer.
 ------------------------------------------------------------
 
-I have been a part of the Blockchain Development space for over 3 years. I use the Solidity programming language, Javascript, Hardhat, Remix IDE and several other blockchain tools for my Smart Contract Development. I am also a professional Writer with over 5 years of experience, and over 2 years writing on Blockchain related topics. I have over 6 published articles talking about Web-3, written over 3 product documentations for clients, and also have an infographic content series, where i educate people about the Blockchain space.
+I have been a part of the Blockchain Development space for over 2 years. I use the Solidity programming language, Javascript, Hardhat, Remix IDE and several other blockchain tools for my Smart Contract Development. I am also a professional Writer with over 5 years of experience, and over 2 years writing on Blockchain related topics. I have over 10 published articles talking about Web-3, written over 3 product documentations for clients, and also have an infographic content series, where i educate people about the Blockchain space.
 
 * 🌍  I'm based in Ilorin, Nigeria
-* 🖥️  See my portfolio at [Lawwee](http://https://bio.link/lawwee)
 * 🖥️  Check out my LinkedIn Profile [here](http://https://linkedin.com/in/mohammed-lawal)
 * ✉️  You can contact me at [mohammedlawal868@gmail.com](mailto:mohammedlawal868@gmail.com)
 * 🚀  I'm currently working on [Rune Wars](http://www.figma.com/file/LMqUy0fpJV3XmRWZU6ybaq/RuneWars?node-id=15%3A8)
