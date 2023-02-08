@@ -9,7 +9,7 @@ I have been a part of the Blockchain Development space for over 2 years. I use t
 * 🌍  I'm based in Ilorin, Nigeria
 * 🖥️  Check out my LinkedIn Profile [here](http://https://linkedin.com/in/mohammed-lawal)
 * ✉️  You can contact me at [mohammedlawal868@gmail.com](mailto:mohammedlawal868@gmail.com)
-* 🚀  I'm currently working on [Rune Wars](http://www.figma.com/file/LMqUy0fpJV3XmRWZU6ybaq/RuneWars?node-id=15%3A8)
+* 🚀  I'm currently working on [Probeink](http://www.figmma.com)
 * 🧠  I'm learning Nothing specific, just broadening my knowledge in the Blockchain space
 * 🤝  I'm open to collaborating on Web-3 / Blockchain projects
 * ⚡  I love anime, a Marvel simp, and I love to cook.
