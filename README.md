@@ -9,7 +9,7 @@ I have been a part of the Blockchain Development space for over 2 years. I use t
 * 🌍  I'm based in Ilorin, Nigeria
 * 🖥️  Check out my LinkedIn Profile [here](http://https://linkedin.com/in/mohammed-lawal)
 * ✉️  You can contact me at [mohammedlawal868@gmail.com](mailto:mohammedlawal868@gmail.com)
-* 🚀  I'm currently working on [Probeink](http://www.figmma.com)
+* 🚀  I'm currently working on [Probeink](https://github.com/Centuryleap/ProbeInk)
 * 🧠  I'm learning Nothing specific, just broadening my knowledge in the Blockchain space
 * 🤝  I'm open to collaborating on Web-3 / Blockchain projects
 * ⚡  I love anime, a Marvel simp, and I love to cook.
