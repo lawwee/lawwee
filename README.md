@@ -4,7 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I am a Smart Contract Developer and Web3 Writer.
 ------------------------------------------------------------
 
-I have been a part of the Blockchain Development space for over 2 years. I use the Solidity programming language, Javascript, Hardhat, Remix IDE and several other blockchain tools for my Smart Contract Development. I am also a professional Writer with over 5 years of experience, and over 2 years writing on Blockchain related topics. I have over 10 published articles talking about Web-3, written over 3 product documentations for clients, and also have an infographic content series, where i educate people about the Blockchain space.
+I have over 2 years of experience in the tech industry as a Smart Contract developer and Technical Writer. Wuth a strong background in backend development as well as smart contract development, while also well-versed in blockchain concepts such as Ethereum, Polygon, and IPFS. I have also gained knowledge of a variety of programming languages and frameworks, such as Solidity, JavaScript, Node.js, and others.
+
+Working as a Smart Contract Developer and Web-3 Writer at Century Leap, where I led a team of three developers in creating an NFT marketplace and a P2E Open World RPG on the blockchain. I was also instrumental in improving overall project implementation to meet customer expectations, as well as recruiting and training two employees to improve the company's ability to create blockchain applications.
+
+I also possess excellent writing skills in addition to my technical skills and have succesffuly published over 10 articles on various blockchain topics, receiving positive feedback and over 3,000 impressions on social media platforms.
 
 * 🌍  I'm based in Ilorin, Nigeria
 * 🖥️  Check out my LinkedIn Profile [here](http://https://linkedin.com/in/mohammed-lawal)
