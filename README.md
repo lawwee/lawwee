@@ -15,7 +15,7 @@ I also possess excellent writing skills in addition to my technical skills and h
 * ✉️  You can contact me at [mohammedlawal868@gmail.com](mailto:mohammedlawal868@gmail.com)
 * 🚀  I'm currently working on [Probeink](https://github.com/Centuryleap/ProbeInk)
 * 🧠  I'm learning Nothing specific, just broadening my knowledge in the Tech space
-* 🤝  I'm open to collaborating on Web-3 / Blockchain and amazing Backend projects
+* 🤝  I'm open to collaborating on Web-3 / Blockchain and amazing Backend-based projects
 * ⚡  I love anime, a Marvel simp, and I love to cook.
 
 <a href="https://www.twitter.com/lawaldafuture1" target="_blank" rel="noreferrer"><img
