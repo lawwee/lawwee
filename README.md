@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I am a Smart Contract Developer and Web3 Writer.
 ------------------------------------------------------------
 
-I have over 2 years of experience in the tech industry as a Smart Contract developer and Technical Writer. Wuth a strong background in backend development as well as smart contract development, while also well-versed in blockchain concepts such as Ethereum, Polygon, and IPFS. I have also gained knowledge of a variety of programming languages and frameworks, such as Solidity, JavaScript, Node.js, and others.
+I have over 2 years of experience in the tech industry as a Smart Contract developer and Technical Writer. With a strong background in backend development as well as smart contract development, while also well-versed in blockchain concepts such as Ethereum, Polygon, and IPFS. I have also gained knowledge of a variety of programming languages and frameworks, such as Solidity, JavaScript, Node.js, and others.
 
 Working as a Smart Contract Developer and Web-3 Writer at Century Leap, where I led a team of three developers in creating an NFT marketplace and a P2E Open World RPG on the blockchain. I was also instrumental in improving overall project implementation to meet customer expectations, as well as recruiting and training two employees to improve the company's ability to create blockchain applications.
 
