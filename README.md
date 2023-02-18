@@ -8,7 +8,7 @@ I have over 2 years of experience in the tech industry as a Smart Contract devel
 
 Working as a Smart Contract Developer and Web-3 Writer at Century Leap, where I led a team of three developers in creating an NFT marketplace and a P2E Open World RPG on the blockchain. I was also instrumental in improving overall project implementation to meet customer expectations, as well as recruiting and training two employees to improve the company's ability to create blockchain applications.
 
-I also possess excellent writing skills in addition to my technical skills and have succesffuly published over 10 articles on various blockchain topics, receiving positive feedback and over 3,000 impressions on social media platforms.
+I also possess excellent writing skills in addition to my technical skills and have succesffuly published over 10 articles on various blockchain topics, receiving positive feedback and over 5,000 impressions on social media platforms.
 
 * 🌍  I'm based in Ilorin, Nigeria
 * 🖥️  Check out my LinkedIn Profile [here](http://https://linkedin.com/in/mohammed-lawal)
