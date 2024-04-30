@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mohammed Lawal (Lawwee)
 ======================================================================================================================================
 
-I am a Smart Contract Developer and Web3 Writer.
+I am a Backend and Blockchain Developer.
 ------------------------------------------------------------
 
 I have over 3 years of experience in the tech industry as a Smart Contract developer and Technical Writer. With a strong background in backend development as well as smart contract development, while also well-versed in blockchain concepts such as Ethereum, Polygon, and IPFS. I have also gained knowledge of a variety of programming languages and frameworks, such as Solidity, JavaScript, Node.js, and others.
